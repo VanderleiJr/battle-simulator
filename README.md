@@ -39,10 +39,10 @@ mau:
 		elemento: Fogo
 		vida: 15000.0
 	fim_vilao.
-    vilao:
-        nome: "Wanderley"
-        elemento: Fogo, Treva #Elemento que faz sentido#
-        vida: 12000.0
-    fim_vilao.
+   	vilao:
+        	nome: "Wanderley"
+        	elemento: Fogo, Treva #Elemento que faz sentido#
+        	vida: 12000.0
+    	fim_vilao.
 fim_mau.
 ```
