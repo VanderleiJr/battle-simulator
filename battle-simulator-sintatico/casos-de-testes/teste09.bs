@@ -1,0 +1,27 @@
+# Caso de Teste 09 - Erro Sintatico (esperava EOF e veio bom: na linha 21) - Gerado na Linha 21 #
+
+mau:
+	vilao:
+		nome: "Lucredio"
+		elemento: Fogo
+		vida: 15000.0
+	fim_vilao.
+	vilao:
+		nome: "Wanderley"
+		elemento: Fogo, Trevas
+		vida: 14000.0
+	fim_vilao.
+	vilao:
+		nome: "Valter"
+		elemento: Agua, Trevas, Fogo
+		vida: 11000.0
+	fim_vilao.
+fim_mau.
+
+bom:
+	heroi:
+		nome: "Vanderlei"
+		classe: Mago
+		nivel: 15 #Nivel muito baixo#
+	fim_heroi.
+fim_bom.

@@ -1,0 +1,22 @@
+# Caso de Teste 03 - Erro Léxico - Linha 12 #
+
+bom:
+	heroi:
+		nome: "Vanderlei"
+		classe: Guerreiro
+		nivel: 150
+	fim_heroi.
+	heroi:
+		nome: "Rafaella"
+		classe: Mago
+		nivel: 180 # Esse level eh alto
+	fim_heroi.
+fim_bom.
+
+mau:
+	vilao:
+		nome: "Lucredio"
+		elemento: Fogo
+		vida: 15000.0
+	fim_vilao.
+fim_mau.

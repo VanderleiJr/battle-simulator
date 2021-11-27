@@ -1,0 +1,22 @@
+# Caso de Teste 02 - Funcionamento Perfeito #
+
+bom:
+	heroi:
+		nome: "Vanderlei"
+		classe: Guerreiro
+		nivel: 150
+	fim_heroi.
+	heroi:
+		nome: "Rafaella"
+		classe: Mago
+		nivel: 180
+	fim_heroi.
+fim_bom.
+
+mau:
+	vilao:
+		nome: "Lucredio"
+		elemento: Fogo
+		vida: 15000.0
+	fim_vilao.
+fim_mau.

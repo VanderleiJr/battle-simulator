@@ -1,0 +1,19 @@
+# Caso de Teste 08 - Funcionamento Perfeito #
+
+mau:
+	vilao:
+		nome: "Lucredio"
+		elemento: Fogo
+		vida: 15000.0
+	fim_vilao.
+	vilao:
+		nome: "Wanderley"
+		elemento: Fogo, Trevas
+		vida: 14000.0
+	fim_vilao.
+	vilao:
+		nome: "Valter"
+		elemento: Agua, Trevas, Fogo
+		vida: 11000.0
+	fim_vilao.
+fim_mau.

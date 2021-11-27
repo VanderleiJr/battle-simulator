@@ -1,0 +1,27 @@
+# Caso de Teste 10 - Funcionamento Perfeito #
+
+bom:
+	heroi:
+		nome: "Vanderlei"
+		classe: Mago, Guerreiro
+		nivel: 15 #Nivel muito baixo#
+	fim_heroi.
+fim_bom.
+
+mau:
+	vilao:
+		nome: "Lucredio" # Apenas para a didática :D #
+		elemento: Fogo
+		vida: 15000.0
+	fim_vilao.
+	vilao:
+		nome: "Wanderley" # O elemento desse faz sentido #
+		elemento: Fogo, Trevas
+		vida: 14000.0
+	fim_vilao.
+	vilao:
+		nome: "Valter"
+		elemento: Agua, Trevas, Fogo
+		vida: 11000.0
+	fim_vilao.
+fim_mau.

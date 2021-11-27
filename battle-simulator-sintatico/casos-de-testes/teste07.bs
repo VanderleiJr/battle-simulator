@@ -1,0 +1,22 @@
+# Caso de Teste 07 - Erro Sintatico (falta do fim_vilao na linha 21) - Gerado na Linha 22 #
+
+bom:
+	heroi:
+		nome: "Vanderlei"
+		classe: Guerreiro
+		nivel: 150
+	fim_heroi.
+	heroi:
+		nome: "Rafaella"
+		classe: Mago
+		nivel: 180
+	fim_heroi.
+fim_bom.
+
+mau:
+	vilao:
+		nome: "Lucredio"
+		elemento: Fogo
+		vida: 15000.0
+	
+fim_mau.

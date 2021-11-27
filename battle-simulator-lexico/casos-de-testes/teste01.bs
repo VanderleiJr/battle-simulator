@@ -1,0 +1,17 @@
+# Caso de Teste 01 - Funcionamento Perfeito #
+
+bom:
+	heroi:
+		nome: "Vanderlei"
+		classe: Guerreiro
+		nivel: 150
+	fim_heroi.
+fim_bom.
+
+mau:
+	vilao:
+		nome: "Lucredio"
+		elemento: Fogo
+		vida: 15000.0
+	fim_vilao.
+fim_mau.

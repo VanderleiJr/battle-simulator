@@ -1,0 +1,14 @@
+# Caso de Teste 05 - Funcionamento Perfeito #
+
+bom:
+	heroi:
+		nome: "Vanderlei"
+		classe: Guerreiro
+		nivel: 150
+	fim_heroi.
+	heroi:
+		nome: "Rafaella"
+		classe: Mago
+		nivel: 180  # Esse level eh alto #
+	fim_heroi.
+fim_bom.
